@@ -118,7 +118,7 @@ body{
     max-height: 180px;
     overflow-y: auto;
     padding-right: 15px;
-    text-align: center;
+    text-align: justify;
 }
 
 .informacoes-abas .descricao span{
