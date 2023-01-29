@@ -114,7 +114,7 @@ body{
 }
 
 .informacoes-abas .descricao{
-    text-alig: justify;
+    text-alig: center;
     font-size: 20px;
     max-height: 180px;
     overflow-y: auto;
