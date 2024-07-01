@@ -9,7 +9,6 @@ Este é um projeto de um mini portfólio pessoal, desenvolvido utilizando HTML, 
 - [Uso](#uso)
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contato](#contato)
 
 ## Visão Geral
 
@@ -37,31 +36,10 @@ $ cd Mini-Portfolio
 
 ## Estrutura De Arquivos
 
-Mini-Portfolio/
-├── src/
-│   ├── css/
-│   │   ├── reset.css
-│   │   ├── estilos.css
-│   │   └── rolagem.css
-│   ├── imagens/
-│   │   ├── foto-perfil.jpg
-│   │   ├── sobre.gif
-│   │   └── coracao.gif
-│   └── js/
-│       └── index.js
-├── index.html
-└── README.md
+![Sem título](https://github.com/LVMdS/potifolioLVMdS/assets/87584069/7d7057e3-f48b-466b-aa53-0e7e898fb396)
 
 ## Tecnologias Utilizadas
 
-HTML
-CSS
-JavaScript
-
-## Contato
-
-Leonardo V.M. de Souza
-
-GitHub
-
-LinkedIn
+- HTML
+- CSS
+- JavaScript
